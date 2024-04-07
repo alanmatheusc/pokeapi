@@ -1,0 +1,34 @@
+.style-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2em 1em;
+    margin-bottom: 2em;
+    width: 23%;
+    border-radius: 1em;
+    border:2px solid #000000 ;
+    color: #fff;
+    background-color: #e33;
+}
+.style-card-id{
+    margin: 1em 0;
+    width: 100%;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.style-card-pokemonName{
+    text-transform: uppercase;
+    margin-bottom: 2em;
+}
+
+.style-card-button{
+    text-decoration: none;
+    background-color: #fff;
+    padding: 10px 20px;
+    color: #000000;
+    border-radius: 5px;
+}

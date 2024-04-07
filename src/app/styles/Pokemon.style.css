@@ -1,0 +1,34 @@
+.pokemon-data-container{
+    text-align: center;
+}
+
+.pokemon-name{
+    font-size: 2.5em;
+    text-transform:uppercase;
+    color: #e33;
+    margin: 1em auto;
+    padding: 0.3em;
+    font-weight: bold;
+}
+
+.pokemon-container h3{
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.pokemon-types-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pokemon-type{
+ padding: .6em;
+    color: #fff;
+    background-color: #e33;
+    margin-right: .5em;
+    border: 1px solid #fff;
+    border-radius: 6px;
+    text-transform: uppercase;
+    font-size: .8em;    
+}
